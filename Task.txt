@@ -1,0 +1,27 @@
+_ Tính năng chung:
+  + Authentication (JWT, Passport)
+  + Authorization
+  + Đăng ký, đăng nhập, gửi mail đăng ký thành công.
+  + Quên mật khẩu(gửi mail)
+  + Phân quyền rõ ràng
+
+- Super admin: Có all quyền
+
+- Admin
+  + CRUD blog
+  + Kiểm duyệt blog của editor ??
+  + 
+
+- Editor:
+  + CRUD blog của mình
+  + 
+
+- User:
+  + Khách hàng:
+    * Xem web, chọn ngày, địa điểm, số người
+    * Đánh giá, bình luận về căn nhà đã thuê
+    * 
+
+  + Chủ nhà:
+    * Đăng bài về ngôi nhà, địa điểm, ảnh, video, giá cả, các dịch vụ
+    * 
